@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "5718a90c09d904f7466e022d8ea6d7c6",
+        "name": "IMG_5672.JPG",
+        "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5672.JPG",
+        "size": {
+            "width": 1200,
+            "height": 1200
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_0S_7zmJT",
+            "type": "RECTANGLE",
+            "tags": [
+                "seagrass"
+            ],
+            "boundingBox": {
+                "height": 1144.6809322276015,
+                "width": 1180.1418223279588,
+                "left": 18.79434788480718,
+                "top": 19.858161439286903
+            },
+            "points": [
+                {
+                    "x": 18.79434788480718,
+                    "y": 19.858161439286903
+                },
+                {
+                    "x": 1198.936170212766,
+                    "y": 19.858161439286903
+                },
+                {
+                    "x": 1198.936170212766,
+                    "y": 1164.5390936668882
+                },
+                {
+                    "x": 18.79434788480718,
+                    "y": 1164.5390936668882
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

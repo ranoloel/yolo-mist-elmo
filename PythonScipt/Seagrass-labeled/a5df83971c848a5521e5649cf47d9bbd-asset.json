@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "a5df83971c848a5521e5649cf47d9bbd",
+        "name": "sea%20grass_43.jpeg",
+        "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_43.jpeg",
+        "size": {
+            "width": 3547,
+            "height": 2359
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "uNzyoDd4Q",
+            "type": "RECTANGLE",
+            "tags": [
+                "seagrass"
+            ],
+            "boundingBox": {
+                "height": 1453.1072124756336,
+                "width": 929.3047989623865,
+                "left": 0,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 929.3047989623865,
+                    "y": 0
+                },
+                {
+                    "x": 929.3047989623865,
+                    "y": 1453.1072124756336
+                },
+                {
+                    "x": 0,
+                    "y": 1453.1072124756336
+                }
+            ]
+        },
+        {
+            "id": "Vjm4y0eHu",
+            "type": "RECTANGLE",
+            "tags": [
+                "seagrass"
+            ],
+            "boundingBox": {
+                "height": 2359,
+                "width": 2544.0869001297015,
+                "left": 979.9105058365758,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 979.9105058365758,
+                    "y": 0
+                },
+                {
+                    "x": 3523.9974059662773,
+                    "y": 0
+                },
+                {
+                    "x": 3523.9974059662773,
+                    "y": 2359
+                },
+                {
+                    "x": 979.9105058365758,
+                    "y": 2359
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Flora",
+    "securityToken": "Flora Token",
+    "sourceConnection": {
+        "name": "Source Connection",
+        "description": "C:\\Users\\Full Scale\\Pictures\\Flora",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYTQwNjUzZDgzZmVkMjNkMDBiZGVkN2MyYTRiYjVlMDIzOTRjNzUwMjJmMjJiYzYwZTZjM2M3NDUyYTRiZDNhOTZiOWY3NWNkYjg4YmRkMDdlMzIwN2MxZTgyYmNkNTA5NDUyY2VkNTcyMTIwZGYyYWQwMzUxMDAxOGQ2MzI1NGMzMTUzZjhmNDY4ODRjYjI1Y2Q2OGRlZjhhZmRlZDMxNDBjOTBkNDdkNmNiMTMyZDUwM2JmZDVhOWU1ODhmMTA5NDU1MDQ1NzNkNmU5MzNjYWYzYjQ0N2QwYTkyNGFlYjkiLCJpdiI6ImMxYmFkMDY2YTBiN2I5MzE2MGEwOTg1MTk1ZjdiZDRhYTlmNTlhYzBjOWY4ZDJlMiJ9"
+        },
+        "id": "-elsMmewR"
+    },
+    "targetConnection": {
+        "name": "Flora Target Connection",
+        "description": "C:\\Users\\Full Scale\\Pictures\\Flora",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDdkMzZlNjdjMmExYjdjODJiMmViNjk1YzI1MjE0MWQ3NGFlMGM1ZmQ1M2E1ZDllMDBhMWJkYjBmZGM1OGI3ZjNlNzNmMmIxOWQwZGI3MDcwNjJmMjkzYzExYWEwNjYyNzMyMmE5NGI0NzgwMWY5ZjRlYjA3MTBlMjgzMWFiZWY5NDU4NGViMWNkODE0ZGU1NGViNGUzMThjM2U1MTdmZjBhNjQ0ZjEyYzNlMWRlZmUwMmI0OGQxNGNlZjA2MjBlZGU3YjU2ZTI1MDBmMGJiMDE4ZjVhOTMxYzQ3NmFmOTQiLCJpdiI6IjVhNzAyOTAxMzUxMWJhMzA1ZGQxM2U2MmFlMjlkODVjZDI5MmIwNTgzOWU5MDFmNCJ9"
+        },
+        "id": "BILX16I5a"
+    },
+    "description": "This is flora sample test...",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [],
+    "id": "1YehhNUns",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMmQyZmVkODYzNjgwZDViOThlYjA1ZDM0ZjI4ZGMxNDE3Y2EwMjE3YzA0ZGQwNWIzN2QwODk1ZjAwOWFmYTlhMDdlOGQ1MjQ0YTEwYWU4YTg3MmZmZDYwMjc3NmZkOTgyIiwiaXYiOiI1YjY2MzVlNGMxNGI1MzJlYzQ2ODg2OTU0OWE5NzcyMGM5MjI4ZWU1NTNhMjdkZGQifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "3febda04df0ddbbbfc8f487ec63ce6eb",
+    "assets": {
+        "3febda04df0ddbbbfc8f487ec63ce6eb": {
+            "format": "JPG",
+            "id": "3febda04df0ddbbbfc8f487ec63ce6eb",
+            "name": "IMG_1167.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/TrainingFauna/TRAININGCORAL%20ORGANIZED/FAUNA/IMG_1167.JPG",
+            "size": {
+                "width": 1600,
+                "height": 1200
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

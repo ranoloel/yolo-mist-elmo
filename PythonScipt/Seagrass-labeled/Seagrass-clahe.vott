@@ -1,0 +1,2740 @@
+{
+    "name": "Seagrass-clahe",
+    "securityToken": "Seagrass-clahe Token",
+    "sourceConnection": {
+        "name": "Seagrass-clahe",
+        "description": "Seagrass-clahe+yolo",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODM1OWJmNzhmMWU5ZTk5ZjNkMTkyMTQxNzRkNjY1OTQ4YTY3YjU1NjI0YWUzZTc1Mjg0NWNkMGE2NjBhODdlMjVlMmQ0NjU4YjlkYjBiYjhjMzVhODIxMmNmOTA1NjRhOGJmMTJkNTM1ZTFkMDAyNTljYWQyNWU2NjQ5YzliODU3ZTU1NGI1NzhlMTdmNTdkMTJhYzJiYWZiZDc0OTZkMGZlZjc1ZjAwOGE0YjEzYjgxYTQ0NDgxN2Y1ZmM0NTFmIiwiaXYiOiIyZDhlMjJlMTViMGJlYjIyOTFjNDIxMmU5NTFmMGQ2NWNlMjc0YjYxYzUxOWNkMmYifQ=="
+        },
+        "id": "B7ZEOA6oI"
+    },
+    "targetConnection": {
+        "name": "Seagrass-clahe-out",
+        "description": "C:\\Users\\Full Scale\\Documents\\MSIT\\PythonScipt\\Seagrass-labeled",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWE1MjFiZGY1YWU4NTQwNmU4Yjk3ZTc3MWMwODczNzAzYjAzYWEwMTJhNDk1ZmE1MmM2YTRmODg1ZDkxZDZhNjkyNGQzODE2YjZiYjZkNGM3YWE3ZWE0ODE5MTRjNmM3NzhiMTNmODIyOTVlNzg0NjM3Y2RjNjljZTZkOTQxYTMzNTMyNTk4OTM1MDI0MmUzMzY0OTc3YWYyZTZiN2FlYmNkNWUzMjc1NmY5MGU3N2EyNDU0YzMwYjk1ZGQ3YTJkIiwiaXYiOiI1NDc3Y2FhYTY4OGU3NWFiOWFlZWRlZDY2ZDFjZWRjMjQxZWZjMjQ4NGNjZDc3OTcifQ=="
+        },
+        "id": "bfVznwCGf"
+    },
+    "description": "seagrass labelong for clahe+yolo",
+    "videoSettings": {
+        "frameExtractionRate": 13
+    },
+    "tags": [
+        {
+            "name": "seagrass",
+            "color": "#800000"
+        },
+        {
+            "name": "non-seagrass",
+            "color": "#ddabe9"
+        }
+    ],
+    "id": "X0Ma63D-b",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjIwYTM4M2M2NjUzZmQ1YTA1NzFhMGI0MGM0Yzg3NDJmYzI5MTI1OTQ3Zjc1ODllN2EyOGUxZDYzYTkzMmIwYzBjNTUxNDg5NTlkNmE0YzYxNWRmYjRkYTI2ODAzMjdmIiwiaXYiOiI1NTg4YmJiMWM3ZDVhNDc0M2VlNzhhMTczOWVkOWViNTk4OWI0ZThlMmM4NjExYzAifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "7daf0fbf1fc6709994b6ec30c9325665",
+    "assets": {
+        "10a048e5e3cec02fd27adf7f527df83d": {
+            "format": "JPG",
+            "id": "10a048e5e3cec02fd27adf7f527df83d",
+            "name": "IMG_5271.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5271.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "554a45b3f65ebf764bf849bb8736b44c": {
+            "format": "JPG",
+            "id": "554a45b3f65ebf764bf849bb8736b44c",
+            "name": "IMG_5272.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5272.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff399ba7b757849ffb3a09db45b00bf1": {
+            "format": "JPG",
+            "id": "ff399ba7b757849ffb3a09db45b00bf1",
+            "name": "IMG_5364.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5364.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db0a519eb96fb8ff881ff1c7152a1065": {
+            "format": "JPG",
+            "id": "db0a519eb96fb8ff881ff1c7152a1065",
+            "name": "IMG_5365.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5365.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a626e1680fb03b03756ef592af948a5": {
+            "format": "JPG",
+            "id": "9a626e1680fb03b03756ef592af948a5",
+            "name": "IMG_5568.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5568.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba6d426699fdd29430cb2cdc7492d96e": {
+            "format": "JPG",
+            "id": "ba6d426699fdd29430cb2cdc7492d96e",
+            "name": "IMG_5569.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5569.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d5b19eade2483d0200122a74cd6f115": {
+            "format": "JPG",
+            "id": "9d5b19eade2483d0200122a74cd6f115",
+            "name": "IMG_5570.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5570.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f908bbc25d867ec08707f40343f4962f": {
+            "format": "JPG",
+            "id": "f908bbc25d867ec08707f40343f4962f",
+            "name": "IMG_5571.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5571.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57d671381110b1d22e03287cf030b862": {
+            "format": "JPG",
+            "id": "57d671381110b1d22e03287cf030b862",
+            "name": "IMG_5572.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5572.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72e70118d37d75153a331b8cd58d5195": {
+            "format": "JPG",
+            "id": "72e70118d37d75153a331b8cd58d5195",
+            "name": "IMG_5590.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5590.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0727899b8a5344fc402a29ab619ba4e2": {
+            "format": "JPG",
+            "id": "0727899b8a5344fc402a29ab619ba4e2",
+            "name": "IMG_5601.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5601.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a280c226f5261e89e7bb7375e4f40c3": {
+            "format": "JPG",
+            "id": "9a280c226f5261e89e7bb7375e4f40c3",
+            "name": "IMG_5602.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5602.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44a2c41d412ce6b398abbb7db1713f37": {
+            "format": "JPG",
+            "id": "44a2c41d412ce6b398abbb7db1713f37",
+            "name": "IMG_5613.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5613.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65e10bb91b1b1344e890007bfc90c2fb": {
+            "format": "JPG",
+            "id": "65e10bb91b1b1344e890007bfc90c2fb",
+            "name": "IMG_5616.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5616.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e98dff71970954a173a66397bd83377": {
+            "format": "JPG",
+            "id": "7e98dff71970954a173a66397bd83377",
+            "name": "IMG_5617.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5617.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0dcbad724bbd92793b8f269b0453285e": {
+            "format": "JPG",
+            "id": "0dcbad724bbd92793b8f269b0453285e",
+            "name": "IMG_5618.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5618.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7572d361affac481c37a5842fb3ad2e0": {
+            "format": "JPG",
+            "id": "7572d361affac481c37a5842fb3ad2e0",
+            "name": "IMG_5665.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5665.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "270332c4152262e0a3d16128f4a46c66": {
+            "format": "JPG",
+            "id": "270332c4152262e0a3d16128f4a46c66",
+            "name": "IMG_5667.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5667.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43903aeaf4394034286eec505a44ab0f": {
+            "format": "JPG",
+            "id": "43903aeaf4394034286eec505a44ab0f",
+            "name": "IMG_5670.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5670.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4535980a407c2fe8eeca340f4dfbdd3c": {
+            "format": "JPG",
+            "id": "4535980a407c2fe8eeca340f4dfbdd3c",
+            "name": "IMG_5671.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5671.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5718a90c09d904f7466e022d8ea6d7c6": {
+            "format": "JPG",
+            "id": "5718a90c09d904f7466e022d8ea6d7c6",
+            "name": "IMG_5672.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5672.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14e7613d08b61d5f369b1ff8e239ceee": {
+            "format": "JPG",
+            "id": "14e7613d08b61d5f369b1ff8e239ceee",
+            "name": "IMG_5677.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5677.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d511cd77f7d66b87ffefc5e1864ed07": {
+            "format": "JPG",
+            "id": "8d511cd77f7d66b87ffefc5e1864ed07",
+            "name": "IMG_5678.JPG",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/IMG_5678.JPG",
+            "size": {
+                "width": 1200,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2bf41421edbd3baeb0096b84f8fa3693": {
+            "format": "jpeg",
+            "id": "2bf41421edbd3baeb0096b84f8fa3693",
+            "name": "sea%20grass_10.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_10.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f347dc8824b2a21075a8ab92594e4122": {
+            "format": "png",
+            "id": "f347dc8824b2a21075a8ab92594e4122",
+            "name": "sea%20grass_100.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_100.png",
+            "size": {
+                "width": 700,
+                "height": 467
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd9f2a7e1ffa19d9f7f94d5f3313d48c": {
+            "format": "jpeg",
+            "id": "bd9f2a7e1ffa19d9f7f94d5f3313d48c",
+            "name": "sea%20grass_11.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_11.jpeg",
+            "size": {
+                "width": 800,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "663d971ac1d029adda54ef39c5693973": {
+            "format": "png",
+            "id": "663d971ac1d029adda54ef39c5693973",
+            "name": "sea%20grass_12.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_12.png",
+            "size": {
+                "width": 1946,
+                "height": 1430
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1b43adcd2fdf6d8e869f4f663852995": {
+            "format": "png",
+            "id": "f1b43adcd2fdf6d8e869f4f663852995",
+            "name": "sea%20grass_13.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_13.png",
+            "size": {
+                "width": 1024,
+                "height": 878
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c182dc02b2cadd530f0b7876c78a359": {
+            "format": "jpeg",
+            "id": "5c182dc02b2cadd530f0b7876c78a359",
+            "name": "sea%20grass_14.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_14.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2398f0ced841b0083758512744cff81e": {
+            "format": "jpeg",
+            "id": "2398f0ced841b0083758512744cff81e",
+            "name": "sea%20grass_15.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_15.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "858b62a09c284941ad285c2eb141701e": {
+            "format": "jpeg",
+            "id": "858b62a09c284941ad285c2eb141701e",
+            "name": "sea%20grass_16.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_16.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa8afdc132c10f8099823a2a6e2cbe62": {
+            "format": "jpeg",
+            "id": "fa8afdc132c10f8099823a2a6e2cbe62",
+            "name": "sea%20grass_17.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_17.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 853
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2eb7e6d534df1f2d8eda58d2ffeac17c": {
+            "format": "jpeg",
+            "id": "2eb7e6d534df1f2d8eda58d2ffeac17c",
+            "name": "sea%20grass_24.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_24.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad4d47e4c2690d03cd11f7bb1b4b2cec": {
+            "format": "jpeg",
+            "id": "ad4d47e4c2690d03cd11f7bb1b4b2cec",
+            "name": "sea%20grass_23.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_23.jpeg",
+            "size": {
+                "width": 2560,
+                "height": 1707
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2194f29d8d0845d3291a22ad034db6c4": {
+            "format": "jpeg",
+            "id": "2194f29d8d0845d3291a22ad034db6c4",
+            "name": "sea%20grass_18.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_18.jpeg",
+            "size": {
+                "width": 945,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f719cc1a51b9782536f4d3f874b36a89": {
+            "format": "jpeg",
+            "id": "f719cc1a51b9782536f4d3f874b36a89",
+            "name": "sea%20grass_19.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_19.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26332711984fc1ab1a7eae781046f72b": {
+            "format": "jpeg",
+            "id": "26332711984fc1ab1a7eae781046f72b",
+            "name": "sea%20grass_20.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_20.jpeg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79c1722727a20c6caae83b2e945111f9": {
+            "format": "jpeg",
+            "id": "79c1722727a20c6caae83b2e945111f9",
+            "name": "sea%20grass_21.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_21.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "831317a6062ccf20b05198a9b86a5e9b": {
+            "format": "jpeg",
+            "id": "831317a6062ccf20b05198a9b86a5e9b",
+            "name": "sea%20grass_22.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_22.jpeg",
+            "size": {
+                "width": 2250,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e834cde0c514a8f9fa4b018e215a75f": {
+            "format": "png",
+            "id": "4e834cde0c514a8f9fa4b018e215a75f",
+            "name": "sea%20grass_25.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_25.png",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "957eb8a0a2ac4559d9f46032f5155aef": {
+            "format": "jpeg",
+            "id": "957eb8a0a2ac4559d9f46032f5155aef",
+            "name": "sea%20grass_26.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_26.jpeg",
+            "size": {
+                "width": 960,
+                "height": 540
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5245dabc15e58950de2db52805ef6743": {
+            "format": "jpeg",
+            "id": "5245dabc15e58950de2db52805ef6743",
+            "name": "sea%20grass_27.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_27.jpeg",
+            "size": {
+                "width": 1024,
+                "height": 597
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8019d4b70fe036d412c24f3d1eb3ae8": {
+            "format": "jpeg",
+            "id": "a8019d4b70fe036d412c24f3d1eb3ae8",
+            "name": "sea%20grass_28.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_28.jpeg",
+            "size": {
+                "width": 650,
+                "height": 487
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1df2d530e69ca7ec7a1d9b8e17408441": {
+            "format": "jpeg",
+            "id": "1df2d530e69ca7ec7a1d9b8e17408441",
+            "name": "sea%20grass_29.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_29.jpeg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ca9c95e51e2fa809175d3c0956f9cf4": {
+            "format": "jpeg",
+            "id": "4ca9c95e51e2fa809175d3c0956f9cf4",
+            "name": "sea%20grass_3.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_3.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 1667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01b1f3719c7a970bb9f39158cc3c8045": {
+            "format": "jpeg",
+            "id": "01b1f3719c7a970bb9f39158cc3c8045",
+            "name": "sea%20grass_30.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_30.jpeg",
+            "size": {
+                "width": 2048,
+                "height": 1322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a4917cd055eaa135fb9f84526c3ac5e": {
+            "format": "png",
+            "id": "3a4917cd055eaa135fb9f84526c3ac5e",
+            "name": "sea%20grass_31.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_31.png",
+            "size": {
+                "width": 700,
+                "height": 467
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85bff735f3bfa020776caaeb21dc2b5d": {
+            "format": "jpeg",
+            "id": "85bff735f3bfa020776caaeb21dc2b5d",
+            "name": "sea%20grass_32.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_32.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1c3083499a382f80d1978a123fd8b89": {
+            "format": "jpeg",
+            "id": "f1c3083499a382f80d1978a123fd8b89",
+            "name": "sea%20grass_33.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_33.jpeg",
+            "size": {
+                "width": 2560,
+                "height": 1939
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b36c4f369f8d10a8cad6cee2b4364f1": {
+            "format": "jpeg",
+            "id": "9b36c4f369f8d10a8cad6cee2b4364f1",
+            "name": "sea%20grass_35.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_35.jpeg",
+            "size": {
+                "width": 501,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25a3722f6bf04edfc690ee08699dd81d": {
+            "format": "jpeg",
+            "id": "25a3722f6bf04edfc690ee08699dd81d",
+            "name": "sea%20grass_34.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_34.jpeg",
+            "size": {
+                "width": 1320,
+                "height": 877
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f40927877c0f0beba8632b10f08edf6d": {
+            "format": "jpeg",
+            "id": "f40927877c0f0beba8632b10f08edf6d",
+            "name": "sea%20grass_36.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_36.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67b52d81dce70126b2c3f7072874fbdc": {
+            "format": "jpeg",
+            "id": "67b52d81dce70126b2c3f7072874fbdc",
+            "name": "sea%20grass_37.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_37.jpeg",
+            "size": {
+                "width": 700,
+                "height": 525
+            },
+            "state": 2,
+            "type": 1
+        },
+        "118a0b0c4aa7cf70b3009330e5dcd9df": {
+            "format": "jpeg",
+            "id": "118a0b0c4aa7cf70b3009330e5dcd9df",
+            "name": "sea%20grass_38.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_38.jpeg",
+            "size": {
+                "width": 1019,
+                "height": 509
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff6ae8a39f5cea85440abdea9f49ff00": {
+            "format": "png",
+            "id": "ff6ae8a39f5cea85440abdea9f49ff00",
+            "name": "sea%20grass_39.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_39.png",
+            "size": {
+                "width": 480,
+                "height": 321
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5017dc505971f63152889ae84285dbf8": {
+            "format": "jpeg",
+            "id": "5017dc505971f63152889ae84285dbf8",
+            "name": "sea%20grass_4.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_4.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14efc5b82c6932b19db30da688c0d54f": {
+            "format": "jpeg",
+            "id": "14efc5b82c6932b19db30da688c0d54f",
+            "name": "sea%20grass_40.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_40.jpeg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cd16cbabdd37cecdff7e62b393d960e": {
+            "format": "jpeg",
+            "id": "9cd16cbabdd37cecdff7e62b393d960e",
+            "name": "sea%20grass_41.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_41.jpeg",
+            "size": {
+                "width": 1600,
+                "height": 1010
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbd1b0411d5f51eb5133bd46847e5c55": {
+            "format": "jpeg",
+            "id": "fbd1b0411d5f51eb5133bd46847e5c55",
+            "name": "sea%20grass_42.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_42.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 1050
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5df83971c848a5521e5649cf47d9bbd": {
+            "format": "jpeg",
+            "id": "a5df83971c848a5521e5649cf47d9bbd",
+            "name": "sea%20grass_43.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_43.jpeg",
+            "size": {
+                "width": 3547,
+                "height": 2359
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d11bc4026b339bc0d40d08249d338f1b": {
+            "format": "jpeg",
+            "id": "d11bc4026b339bc0d40d08249d338f1b",
+            "name": "sea%20grass_44.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_44.jpeg",
+            "size": {
+                "width": 500,
+                "height": 270
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b10c0b8e9ff497501bacd85b3c51b42d": {
+            "format": "jpeg",
+            "id": "b10c0b8e9ff497501bacd85b3c51b42d",
+            "name": "sea%20grass_45.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_45.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36d11631d9fe59ee1560ef21a1023d58": {
+            "format": "jpeg",
+            "id": "36d11631d9fe59ee1560ef21a1023d58",
+            "name": "sea%20grass_46.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_46.jpeg",
+            "size": {
+                "width": 570,
+                "height": 330
+            },
+            "state": 2,
+            "type": 1
+        },
+        "669a98084d79195431da0992baa87d04": {
+            "format": "jpeg",
+            "id": "669a98084d79195431da0992baa87d04",
+            "name": "sea%20grass_47.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_47.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ada6861e1e8f604ebd042c928b4f84d": {
+            "format": "jpeg",
+            "id": "7ada6861e1e8f604ebd042c928b4f84d",
+            "name": "sea%20grass_48.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_48.jpeg",
+            "size": {
+                "width": 1500,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5797f76680befbcdf9db653ab1e4e617": {
+            "format": "jpeg",
+            "id": "5797f76680befbcdf9db653ab1e4e617",
+            "name": "sea%20grass_49.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_49.jpeg",
+            "size": {
+                "width": 2448,
+                "height": 3917
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b35e5ecc39890b762fc1a25019e4b6a2": {
+            "format": "jpeg",
+            "id": "b35e5ecc39890b762fc1a25019e4b6a2",
+            "name": "sea%20grass_5.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_5.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 1083
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a2c3661ea805a42dc3c52e67e530b7a": {
+            "format": "jpeg",
+            "id": "3a2c3661ea805a42dc3c52e67e530b7a",
+            "name": "sea%20grass_50.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_50.jpeg",
+            "size": {
+                "width": 4608,
+                "height": 3456
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8b8dd84cb9318acffff6e29d6a0f6b9": {
+            "format": "jpeg",
+            "id": "b8b8dd84cb9318acffff6e29d6a0f6b9",
+            "name": "sea%20grass_51.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_51.jpeg",
+            "size": {
+                "width": 1810,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9aa08a5d8a8f848365bd0f753425e74b": {
+            "format": "jpeg",
+            "id": "9aa08a5d8a8f848365bd0f753425e74b",
+            "name": "sea%20grass_52.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_52.jpeg",
+            "size": {
+                "width": 2560,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b6202892bbca5d97f3fb0de11004739": {
+            "format": "jpeg",
+            "id": "8b6202892bbca5d97f3fb0de11004739",
+            "name": "sea%20grass_53.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_53.jpeg",
+            "size": {
+                "width": 480,
+                "height": 270
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ab0207f22df36f70886f1c7782cb1a5": {
+            "format": "jpeg",
+            "id": "9ab0207f22df36f70886f1c7782cb1a5",
+            "name": "sea%20grass_54.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_54.jpeg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7906611c5d153961859b3f9487cdb122": {
+            "format": "jpeg",
+            "id": "7906611c5d153961859b3f9487cdb122",
+            "name": "sea%20grass_55.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_55.jpeg",
+            "size": {
+                "width": 1100,
+                "height": 733
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8744ef18f261915ecff1bf1276ff70ee": {
+            "format": "jpeg",
+            "id": "8744ef18f261915ecff1bf1276ff70ee",
+            "name": "sea%20grass_56.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_56.jpeg",
+            "size": {
+                "width": 380,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd0ec3846a931460cc67afed3f2b1de8": {
+            "format": "jpeg",
+            "id": "cd0ec3846a931460cc67afed3f2b1de8",
+            "name": "sea%20grass_57.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_57.jpeg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7a904152b92e6343a6ef0b9ae9977d6c": {
+            "format": "jpeg",
+            "id": "7a904152b92e6343a6ef0b9ae9977d6c",
+            "name": "sea%20grass_58.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_58.jpeg",
+            "size": {
+                "width": 350,
+                "height": 231
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2a9923151c9d53065cd611f429ac8fe": {
+            "format": "jpeg",
+            "id": "b2a9923151c9d53065cd611f429ac8fe",
+            "name": "sea%20grass_71.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_71.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b4145db7eb30fae683772fd17a9e603": {
+            "format": "jpeg",
+            "id": "9b4145db7eb30fae683772fd17a9e603",
+            "name": "sea%20grass_72.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_72.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 1083
+            },
+            "state": 2,
+            "type": 1
+        },
+        "578bf6298b68fe6f2077eb34b9ed30f9": {
+            "format": "jpeg",
+            "id": "578bf6298b68fe6f2077eb34b9ed30f9",
+            "name": "sea%20grass_6.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_6.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1120
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e7fe1809a5d63f2f711066814c92df1": {
+            "format": "jpeg",
+            "id": "5e7fe1809a5d63f2f711066814c92df1",
+            "name": "sea%20grass_60.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_60.jpeg",
+            "size": {
+                "width": 286,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39404b132cbd67660bd37e364b51db61": {
+            "format": "jpeg",
+            "id": "39404b132cbd67660bd37e364b51db61",
+            "name": "sea%20grass_62.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_62.jpeg",
+            "size": {
+                "width": 1080,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16c291ead7d27de71fa9c948af73facd": {
+            "format": "jpeg",
+            "id": "16c291ead7d27de71fa9c948af73facd",
+            "name": "sea%20grass_63.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_63.jpeg",
+            "size": {
+                "width": 976,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43ba9e61fd0e27a32e2c48468cbdc377": {
+            "format": "jpeg",
+            "id": "43ba9e61fd0e27a32e2c48468cbdc377",
+            "name": "sea%20grass_64.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_64.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8889b17546273dcc83740b3b1b34f0d": {
+            "format": "jpeg",
+            "id": "b8889b17546273dcc83740b3b1b34f0d",
+            "name": "sea%20grass_65.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_65.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 560
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ecf4a0215d8ca0143f546a527401045": {
+            "format": "jpeg",
+            "id": "9ecf4a0215d8ca0143f546a527401045",
+            "name": "sea%20grass_66.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_66.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 801
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfdaa692a8d663384c25bac3da8056ba": {
+            "format": "png",
+            "id": "cfdaa692a8d663384c25bac3da8056ba",
+            "name": "sea%20grass_67.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_67.png",
+            "size": {
+                "width": 80,
+                "height": 36
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e66f1241971342756be5476368eb9d1c": {
+            "format": "jpeg",
+            "id": "e66f1241971342756be5476368eb9d1c",
+            "name": "sea%20grass_7.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_7.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "428383a542ee58120c1a2147c6ec46a0": {
+            "format": "jpeg",
+            "id": "428383a542ee58120c1a2147c6ec46a0",
+            "name": "sea%20grass_70.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_70.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 1667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1104e1a1ac11b43be1e50015d2415033": {
+            "format": "jpeg",
+            "id": "1104e1a1ac11b43be1e50015d2415033",
+            "name": "sea%20grass_73.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_73.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1120
+            },
+            "state": 1,
+            "type": 1
+        },
+        "98c61b7fd8c28a892f14cd6c3dd92ca1": {
+            "format": "jpeg",
+            "id": "98c61b7fd8c28a892f14cd6c3dd92ca1",
+            "name": "sea%20grass_74.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_74.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0882ee6ddfa3fd5b268727f197d2138": {
+            "format": "jpeg",
+            "id": "d0882ee6ddfa3fd5b268727f197d2138",
+            "name": "sea%20grass_75.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_75.jpeg",
+            "size": {
+                "width": 5315,
+                "height": 3543
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7b4378b4df73d839231586a164cc484": {
+            "format": "jpeg",
+            "id": "a7b4378b4df73d839231586a164cc484",
+            "name": "sea%20grass_77.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_77.jpeg",
+            "size": {
+                "width": 700,
+                "height": 267
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf295a8dee55169f805fc43780a3750b": {
+            "format": "jpeg",
+            "id": "bf295a8dee55169f805fc43780a3750b",
+            "name": "sea%20grass_78.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_78.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02f1d7a31e9ffa7eedbc4d14a8441260": {
+            "format": "jpeg",
+            "id": "02f1d7a31e9ffa7eedbc4d14a8441260",
+            "name": "sea%20grass_79.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_79.jpeg",
+            "size": {
+                "width": 800,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c61ebb991cb68fbd3c81df48ae127d3": {
+            "format": "jpeg",
+            "id": "3c61ebb991cb68fbd3c81df48ae127d3",
+            "name": "sea%20grass_8.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_8.jpeg",
+            "size": {
+                "width": 5315,
+                "height": 3543
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba1d92a7d54a4a7b57bf9e8572483360": {
+            "format": "png",
+            "id": "ba1d92a7d54a4a7b57bf9e8572483360",
+            "name": "sea%20grass_80.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_80.png",
+            "size": {
+                "width": 1946,
+                "height": 1430
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac925f848923eebd880958d5954a99ed": {
+            "format": "png",
+            "id": "ac925f848923eebd880958d5954a99ed",
+            "name": "sea%20grass_81.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_81.png",
+            "size": {
+                "width": 1024,
+                "height": 878
+            },
+            "state": 2,
+            "type": 1
+        },
+        "665613761b34d3aa4036f8253b2ce00e": {
+            "format": "jpeg",
+            "id": "665613761b34d3aa4036f8253b2ce00e",
+            "name": "sea%20grass_82.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_82.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56dfb83d8839d56e8c3dcba5168a55db": {
+            "format": "jpeg",
+            "id": "56dfb83d8839d56e8c3dcba5168a55db",
+            "name": "sea%20grass_83.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_83.jpeg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8df4a481d1707006d223c3b5feb7e7a": {
+            "format": "jpeg",
+            "id": "c8df4a481d1707006d223c3b5feb7e7a",
+            "name": "sea%20grass_84.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_84.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87ed7d7ece9cde28cff6d5a530ed54d7": {
+            "format": "jpeg",
+            "id": "87ed7d7ece9cde28cff6d5a530ed54d7",
+            "name": "sea%20grass_85.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_85.jpeg",
+            "size": {
+                "width": 976,
+                "height": 549
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a8cf398e8fb59d9834f21d2f67628d9": {
+            "format": "jpeg",
+            "id": "9a8cf398e8fb59d9834f21d2f67628d9",
+            "name": "sea%20grass_86.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_86.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85d8fc4c8914dfc0e1b5fad55f504251": {
+            "format": "jpeg",
+            "id": "85d8fc4c8914dfc0e1b5fad55f504251",
+            "name": "sea%20grass_87.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_87.jpeg",
+            "size": {
+                "width": 945,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "583b5d5d92653b46e332a14ecdc88379": {
+            "format": "jpeg",
+            "id": "583b5d5d92653b46e332a14ecdc88379",
+            "name": "sea%20grass_88.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_88.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb0a3bf7a3912e57572783692e688048": {
+            "format": "jpeg",
+            "id": "eb0a3bf7a3912e57572783692e688048",
+            "name": "sea%20grass_89.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_89.jpeg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76b5f872818d8031f568017886988f57": {
+            "format": "jpeg",
+            "id": "76b5f872818d8031f568017886988f57",
+            "name": "sea%20grass_9.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_9.jpeg",
+            "size": {
+                "width": 3111,
+                "height": 2074
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f205b84d302905905e7a217beff3960": {
+            "format": "jpeg",
+            "id": "3f205b84d302905905e7a217beff3960",
+            "name": "sea%20grass_90.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_90.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b39cfd949ace19e13f8e9f797ff428f4": {
+            "format": "jpeg",
+            "id": "b39cfd949ace19e13f8e9f797ff428f4",
+            "name": "sea%20grass_91.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_91.jpeg",
+            "size": {
+                "width": 2250,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b0a7d1b2e926a7056518ccd27e19a83": {
+            "format": "jpeg",
+            "id": "9b0a7d1b2e926a7056518ccd27e19a83",
+            "name": "sea%20grass_92.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_92.jpeg",
+            "size": {
+                "width": 2560,
+                "height": 1707
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ea9e3d39f4f924e4842539a88652f26": {
+            "format": "jpeg",
+            "id": "8ea9e3d39f4f924e4842539a88652f26",
+            "name": "sea%20grass_93.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_93.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f1ff50c71777cc4ad86b287fc7cd0d4": {
+            "format": "png",
+            "id": "0f1ff50c71777cc4ad86b287fc7cd0d4",
+            "name": "sea%20grass_94.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_94.png",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0fe0c1968063bbec724255c73ac4132f": {
+            "format": "jpeg",
+            "id": "0fe0c1968063bbec724255c73ac4132f",
+            "name": "sea%20grass_95.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_95.jpeg",
+            "size": {
+                "width": 960,
+                "height": 540
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cef24a9408ee850d8ba3a0f66794f1a8": {
+            "format": "jpeg",
+            "id": "cef24a9408ee850d8ba3a0f66794f1a8",
+            "name": "sea%20grass_96.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_96.jpeg",
+            "size": {
+                "width": 1024,
+                "height": 597
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a068465ba00339ec94ccf4f7d21f2dc4": {
+            "format": "jpeg",
+            "id": "a068465ba00339ec94ccf4f7d21f2dc4",
+            "name": "sea%20grass_97.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_97.jpeg",
+            "size": {
+                "width": 650,
+                "height": 487
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37cf5130272b835058b917bd863351b0": {
+            "format": "jpeg",
+            "id": "37cf5130272b835058b917bd863351b0",
+            "name": "sea%20grass_98.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_98.jpeg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70bf8e2743d0f2d07183f7bd4cca3ab0": {
+            "format": "jpeg",
+            "id": "70bf8e2743d0f2d07183f7bd4cca3ab0",
+            "name": "sea%20grass_99.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_99.jpeg",
+            "size": {
+                "width": 2048,
+                "height": 1322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "383081a2935dbc502f4a8e5a98be7ed7": {
+            "format": "jpeg",
+            "id": "383081a2935dbc502f4a8e5a98be7ed7",
+            "name": "seagrasses_10.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_10.jpeg",
+            "size": {
+                "width": 1019,
+                "height": 509
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f372d831472ebd1d76175430c4e39296": {
+            "format": "jpeg",
+            "id": "f372d831472ebd1d76175430c4e39296",
+            "name": "seagrasses_100.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_100.jpeg",
+            "size": {
+                "width": 1100,
+                "height": 733
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3e72b401fb09bd7471900b6ae79d67f2": {
+            "format": "jpeg",
+            "id": "3e72b401fb09bd7471900b6ae79d67f2",
+            "name": "seagrasses_11.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_11.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b97f88384f42766a0b1373955b6edd26": {
+            "format": "jpeg",
+            "id": "b97f88384f42766a0b1373955b6edd26",
+            "name": "seagrasses_12.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_12.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 853
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d499c8d19aa2774380c36e70a75e458": {
+            "format": "jpeg",
+            "id": "0d499c8d19aa2774380c36e70a75e458",
+            "name": "seagrasses_13.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_13.jpeg",
+            "size": {
+                "width": 800,
+                "height": 400
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9bd23bdc08acb2a33a5142b959ce54d6": {
+            "format": "jpeg",
+            "id": "9bd23bdc08acb2a33a5142b959ce54d6",
+            "name": "seagrasses_17.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_17.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c11db0ed86236a6382047f7f0de02a77": {
+            "format": "jpeg",
+            "id": "c11db0ed86236a6382047f7f0de02a77",
+            "name": "seagrasses_18.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_18.jpeg",
+            "size": {
+                "width": 400,
+                "height": 272
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff6e65c556eb018d8750bd1904434690": {
+            "format": "jpeg",
+            "id": "ff6e65c556eb018d8750bd1904434690",
+            "name": "seagrasses_19.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_19.jpeg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1df046129f9634de7bae6669e2390b42": {
+            "format": "png",
+            "id": "1df046129f9634de7bae6669e2390b42",
+            "name": "seagrasses_20.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_20.png",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf694f1ae8f9a675e97d4e14d0bd42c8": {
+            "format": "jpeg",
+            "id": "bf694f1ae8f9a675e97d4e14d0bd42c8",
+            "name": "seagrasses_21.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_21.jpeg",
+            "size": {
+                "width": 2048,
+                "height": 1152
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66e33611d7a31e75152f83ad191ca90c": {
+            "format": "jpeg",
+            "id": "66e33611d7a31e75152f83ad191ca90c",
+            "name": "seagrasses_22.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_22.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c368fc6640389cb290527217ae3953e": {
+            "format": "jpeg",
+            "id": "4c368fc6640389cb290527217ae3953e",
+            "name": "seagrasses_23.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_23.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32c1c9507798e7a0ab5bfb3463e8d855": {
+            "format": "jpeg",
+            "id": "32c1c9507798e7a0ab5bfb3463e8d855",
+            "name": "seagrasses_24.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_24.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a1d6e94b69b47c23994d374a14529c7": {
+            "format": "jpeg",
+            "id": "2a1d6e94b69b47c23994d374a14529c7",
+            "name": "seagrasses_25.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_25.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 840
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6e25282fd3d6782619f10480e904c35": {
+            "format": "jpeg",
+            "id": "d6e25282fd3d6782619f10480e904c35",
+            "name": "seagrasses_26.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_26.jpeg",
+            "size": {
+                "width": 570,
+                "height": 330
+            },
+            "state": 2,
+            "type": 1
+        },
+        "203046a59da15ea963583480d46d747c": {
+            "format": "jpeg",
+            "id": "203046a59da15ea963583480d46d747c",
+            "name": "seagrasses_27.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_27.jpeg",
+            "size": {
+                "width": 501,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d36757f5429a26f3efe29828c602ca2": {
+            "format": "jpeg",
+            "id": "6d36757f5429a26f3efe29828c602ca2",
+            "name": "seagrasses_28.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_28.jpeg",
+            "size": {
+                "width": 650,
+                "height": 487
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2766187020c2fa947c39408ef1c8fe41": {
+            "format": "jpeg",
+            "id": "2766187020c2fa947c39408ef1c8fe41",
+            "name": "seagrasses_37.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_37.jpeg",
+            "size": {
+                "width": 700,
+                "height": 525
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ea5c05a37c1117854ada6a0ad0fd5ca": {
+            "format": "jpeg",
+            "id": "0ea5c05a37c1117854ada6a0ad0fd5ca",
+            "name": "seagrasses_36.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_36.jpeg",
+            "size": {
+                "width": 1100,
+                "height": 733
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d46357f4e88f9274dda7d55388c7dba2": {
+            "format": "jpeg",
+            "id": "d46357f4e88f9274dda7d55388c7dba2",
+            "name": "seagrasses_34.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_34.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e22c470b4325570c109a5bd4d91f05f4": {
+            "format": "jpeg",
+            "id": "e22c470b4325570c109a5bd4d91f05f4",
+            "name": "seagrasses_32.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_32.jpeg",
+            "size": {
+                "width": 850,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1db6bf8c4076e20553dad4e2b09f144e": {
+            "format": "jpeg",
+            "id": "1db6bf8c4076e20553dad4e2b09f144e",
+            "name": "seagrasses_29.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_29.jpeg",
+            "size": {
+                "width": 1024,
+                "height": 597
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec6aa19d24c880ac870f92eaa5442f92": {
+            "format": "jpeg",
+            "id": "ec6aa19d24c880ac870f92eaa5442f92",
+            "name": "seagrasses_3.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_3.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "271f2a6d327bc4c281239b7c546fa688": {
+            "format": "jpeg",
+            "id": "271f2a6d327bc4c281239b7c546fa688",
+            "name": "seagrasses_30.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_30.jpeg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d6b0fcafd994ca4f995851ba069557c": {
+            "format": "jpeg",
+            "id": "0d6b0fcafd994ca4f995851ba069557c",
+            "name": "seagrasses_31.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_31.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c061c5eaf52f4f625eaa2c5001f05a84": {
+            "format": "jpeg",
+            "id": "c061c5eaf52f4f625eaa2c5001f05a84",
+            "name": "seagrasses_33.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_33.jpeg",
+            "size": {
+                "width": 768,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "108379e3cbec1a8cadbc198420eba2b3": {
+            "format": "jpeg",
+            "id": "108379e3cbec1a8cadbc198420eba2b3",
+            "name": "seagrasses_35.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_35.jpeg",
+            "size": {
+                "width": 420,
+                "height": 470
+            },
+            "state": 2,
+            "type": 1
+        },
+        "edf90b2c676f58e38bf0a44e1cdf8e53": {
+            "format": "jpeg",
+            "id": "edf90b2c676f58e38bf0a44e1cdf8e53",
+            "name": "seagrasses_38.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_38.jpeg",
+            "size": {
+                "width": 1100,
+                "height": 769
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e080c698e918866ebbf2e3575f3e5dca": {
+            "format": "png",
+            "id": "e080c698e918866ebbf2e3575f3e5dca",
+            "name": "seagrasses_39.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_39.png",
+            "size": {
+                "width": 1024,
+                "height": 878
+            },
+            "state": 1,
+            "type": 1
+        },
+        "130c0fbb2e075c976b10160c3490db56": {
+            "format": "jpeg",
+            "id": "130c0fbb2e075c976b10160c3490db56",
+            "name": "seagrasses_4.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_4.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1120
+            },
+            "state": 1,
+            "type": 1
+        },
+        "85216d74cca691d50044ab886aeabf9b": {
+            "format": "jpeg",
+            "id": "85216d74cca691d50044ab886aeabf9b",
+            "name": "seagrasses_40.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_40.jpeg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26a642c8cd7620aa4afd23925f338c75": {
+            "format": "jpeg",
+            "id": "26a642c8cd7620aa4afd23925f338c75",
+            "name": "seagrasses_41.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_41.jpeg",
+            "size": {
+                "width": 870,
+                "height": 653
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c695487309845b38555b47bd7aa89c91": {
+            "format": "png",
+            "id": "c695487309845b38555b47bd7aa89c91",
+            "name": "seagrasses_42.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_42.png",
+            "size": {
+                "width": 685,
+                "height": 633
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db555f046b9aedca20fe2c11ee6e9a1b": {
+            "format": "jpeg",
+            "id": "db555f046b9aedca20fe2c11ee6e9a1b",
+            "name": "seagrasses_43.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_43.jpeg",
+            "size": {
+                "width": 1281,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4947ebce570b664564df9e9e425930d": {
+            "format": "jpeg",
+            "id": "a4947ebce570b664564df9e9e425930d",
+            "name": "seagrasses_44.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_44.jpeg",
+            "size": {
+                "width": 1500,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "519b11ed8b0a6fb17f6d41da45eadf46": {
+            "format": "jpeg",
+            "id": "519b11ed8b0a6fb17f6d41da45eadf46",
+            "name": "seagrasses_45.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_45.jpeg",
+            "size": {
+                "width": 466,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b3f1de24e0bdcb950fb5d7ecbfb4b24": {
+            "format": "jpeg",
+            "id": "8b3f1de24e0bdcb950fb5d7ecbfb4b24",
+            "name": "seagrasses_46.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_46.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34734b2d3dbaa68f29897672c1f7b274": {
+            "format": "jpeg",
+            "id": "34734b2d3dbaa68f29897672c1f7b274",
+            "name": "seagrasses_47.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_47.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e3b824efab638cf539dde873c79919a6": {
+            "format": "jpeg",
+            "id": "e3b824efab638cf539dde873c79919a6",
+            "name": "seagrasses_48.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_48.jpeg",
+            "size": {
+                "width": 5315,
+                "height": 3543
+            },
+            "state": 2,
+            "type": 1
+        },
+        "558bd602e0875b41d60cdf549fe63710": {
+            "format": "jpeg",
+            "id": "558bd602e0875b41d60cdf549fe63710",
+            "name": "seagrasses_49.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_49.jpeg",
+            "size": {
+                "width": 712,
+                "height": 650
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c9da600297211b39e7de6f569ab5d38": {
+            "format": "png",
+            "id": "8c9da600297211b39e7de6f569ab5d38",
+            "name": "seagrasses_5.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_5.png",
+            "size": {
+                "width": 1946,
+                "height": 1430
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0697053958af428a50bed8ce046fbb11": {
+            "format": "jpeg",
+            "id": "0697053958af428a50bed8ce046fbb11",
+            "name": "seagrasses_50.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_50.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 1050
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a302538aac1cfbdde76a26478385ff0": {
+            "format": "jpeg",
+            "id": "5a302538aac1cfbdde76a26478385ff0",
+            "name": "seagrasses_51.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_51.jpeg",
+            "size": {
+                "width": 1920,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b932dfeb19cac476d2e1c16a6ce2428": {
+            "format": "jpeg",
+            "id": "5b932dfeb19cac476d2e1c16a6ce2428",
+            "name": "seagrasses_52.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_52.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 912
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf093e50087b373af0e35f266f1ae58a": {
+            "format": "jpeg",
+            "id": "cf093e50087b373af0e35f266f1ae58a",
+            "name": "seagrasses_53.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_53.jpeg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b71c5a21f2bd5dd1d8526e521a04375": {
+            "format": "jpeg",
+            "id": "5b71c5a21f2bd5dd1d8526e521a04375",
+            "name": "seagrasses_54.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_54.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d21bfb9b90b30324702dbcae9795ba12": {
+            "format": "jpeg",
+            "id": "d21bfb9b90b30324702dbcae9795ba12",
+            "name": "seagrasses_55.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_55.jpeg",
+            "size": {
+                "width": 2048,
+                "height": 1448
+            },
+            "state": 1,
+            "type": 1
+        },
+        "40135634704e37a489e2c22734f42ea3": {
+            "format": "jpeg",
+            "id": "40135634704e37a489e2c22734f42ea3",
+            "name": "seagrasses_56.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_56.jpeg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3a1a55679c9254b009f9c32dfc909e26": {
+            "format": "jpeg",
+            "id": "3a1a55679c9254b009f9c32dfc909e26",
+            "name": "seagrasses_57.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_57.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 613
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ba03bbb9d75b5b0633e1bd74a3acac6": {
+            "format": "jpeg",
+            "id": "7ba03bbb9d75b5b0633e1bd74a3acac6",
+            "name": "seagrasses_59.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_59.jpeg",
+            "size": {
+                "width": 1500,
+                "height": 1101
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcec5940af95183d6cb2867a9ece2b60": {
+            "format": "png",
+            "id": "dcec5940af95183d6cb2867a9ece2b60",
+            "name": "seagrasses_6.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_6.png",
+            "size": {
+                "width": 1024,
+                "height": 878
+            },
+            "state": 1,
+            "type": 1
+        },
+        "32a5a63578815635b10829196681d45a": {
+            "format": "jpeg",
+            "id": "32a5a63578815635b10829196681d45a",
+            "name": "seagrasses_92.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_92.jpeg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69d00789ff437e3f65ce3b69904e42c0": {
+            "format": "jpeg",
+            "id": "69d00789ff437e3f65ce3b69904e42c0",
+            "name": "seagrasses_93.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_93.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c73bbb95080bc16370759189cd92a40": {
+            "format": "jpeg",
+            "id": "0c73bbb95080bc16370759189cd92a40",
+            "name": "seagrasses_94.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_94.jpeg",
+            "size": {
+                "width": 1820,
+                "height": 1024
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b8526c0f29678a2a8cee2e74f8460863": {
+            "format": "jpeg",
+            "id": "b8526c0f29678a2a8cee2e74f8460863",
+            "name": "seagrasses_95.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_95.jpeg",
+            "size": {
+                "width": 850,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00fbb081cf822b259cc6d1fead54ea61": {
+            "format": "jpeg",
+            "id": "00fbb081cf822b259cc6d1fead54ea61",
+            "name": "seagrasses_96.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_96.jpeg",
+            "size": {
+                "width": 768,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5457c8a71302748e43708fea5b2c472c": {
+            "format": "jpeg",
+            "id": "5457c8a71302748e43708fea5b2c472c",
+            "name": "seagrasses_97.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_97.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9b83b236ede8f62aebb5d51a17fc66ad": {
+            "format": "jpeg",
+            "id": "9b83b236ede8f62aebb5d51a17fc66ad",
+            "name": "seagrasses_98.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_98.jpeg",
+            "size": {
+                "width": 1881,
+                "height": 2000
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8564db12eea3533f4e278b7fdbd55401": {
+            "format": "jpeg",
+            "id": "8564db12eea3533f4e278b7fdbd55401",
+            "name": "seagrasses_99.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrasses_99.jpeg",
+            "size": {
+                "width": 420,
+                "height": 470
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b8dd9202747460286710248de344f4dd": {
+            "format": "jpeg",
+            "id": "b8dd9202747460286710248de344f4dd",
+            "name": "seagrass_1.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_1.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1120
+            },
+            "state": 1,
+            "type": 1
+        },
+        "56be7b5b4d055da279dcb09045fa17ed": {
+            "format": "jpeg",
+            "id": "56be7b5b4d055da279dcb09045fa17ed",
+            "name": "seagrass_10.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_10.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60f00e96670588339c9d690dd9a92595": {
+            "format": "jpeg",
+            "id": "60f00e96670588339c9d690dd9a92595",
+            "name": "seagrass_100.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_100.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 1050
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2459afd5d12faff5537cf99375138d38": {
+            "format": "jpeg",
+            "id": "2459afd5d12faff5537cf99375138d38",
+            "name": "seagrass_16.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_16.jpeg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58addfc212a182b4fbbcd491158f116c": {
+            "format": "png",
+            "id": "58addfc212a182b4fbbcd491158f116c",
+            "name": "seagrass_17.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_17.png",
+            "size": {
+                "width": 700,
+                "height": 467
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e0db9d3b14a42676634bf939fad7cc0b": {
+            "format": "jpeg",
+            "id": "e0db9d3b14a42676634bf939fad7cc0b",
+            "name": "seagrass_19.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_19.jpeg",
+            "size": {
+                "width": 1810,
+                "height": 1920
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13563c73c86fbcf49bcc891bb3d3848d": {
+            "format": "jpeg",
+            "id": "13563c73c86fbcf49bcc891bb3d3848d",
+            "name": "seagrass_2.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_2.jpeg",
+            "size": {
+                "width": 3111,
+                "height": 2074
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7baded2f1a5ae255ed413720aeecc1b1": {
+            "format": "png",
+            "id": "7baded2f1a5ae255ed413720aeecc1b1",
+            "name": "seagrass_20.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_20.png",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a45d0e2863b90d10879289308d69f51": {
+            "format": "jpeg",
+            "id": "8a45d0e2863b90d10879289308d69f51",
+            "name": "seagrass_21.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_21.jpeg",
+            "size": {
+                "width": 700,
+                "height": 525
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4384ced28fbc0093bc22092512d59b57": {
+            "format": "png",
+            "id": "4384ced28fbc0093bc22092512d59b57",
+            "name": "seagrass_22.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_22.png",
+            "size": {
+                "width": 1024,
+                "height": 512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0789f12009bd397ab568a6d2ddc00e88": {
+            "format": "jpeg",
+            "id": "0789f12009bd397ab568a6d2ddc00e88",
+            "name": "seagrass_23.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_23.jpeg",
+            "size": {
+                "width": 722,
+                "height": 409
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0649beedd2436d7a462285b80e9d72f7": {
+            "format": "jpeg",
+            "id": "0649beedd2436d7a462285b80e9d72f7",
+            "name": "seagrass_24.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_24.jpeg",
+            "size": {
+                "width": 1706,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbac0074cabb056ad4449bcb219f952a": {
+            "format": "jpeg",
+            "id": "bbac0074cabb056ad4449bcb219f952a",
+            "name": "seagrass_25.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_25.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee058ff08922882a9f7610c9e966d799": {
+            "format": "jpeg",
+            "id": "ee058ff08922882a9f7610c9e966d799",
+            "name": "seagrass_26.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_26.jpeg",
+            "size": {
+                "width": 570,
+                "height": 330
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c081c89354086ebe682ba78a065ceb21": {
+            "format": "jpeg",
+            "id": "c081c89354086ebe682ba78a065ceb21",
+            "name": "seagrass_27.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_27.jpeg",
+            "size": {
+                "width": 2250,
+                "height": 1500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d7e30cf3ea5c22be15b1af80199ecfca": {
+            "format": "jpeg",
+            "id": "d7e30cf3ea5c22be15b1af80199ecfca",
+            "name": "seagrass_33.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_33.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 1667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f96f4fa2e7f37db46d01827338d6ee58": {
+            "format": "jpeg",
+            "id": "f96f4fa2e7f37db46d01827338d6ee58",
+            "name": "seagrass_34.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_34.jpeg",
+            "size": {
+                "width": 1100,
+                "height": 733
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c82389a04d475de269cc42a03da593a2": {
+            "format": "jpeg",
+            "id": "c82389a04d475de269cc42a03da593a2",
+            "name": "seagrass_35.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_35.jpeg",
+            "size": {
+                "width": 1400,
+                "height": 1050
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8467e66d33048e0da1966a376c448bd2": {
+            "format": "jpeg",
+            "id": "8467e66d33048e0da1966a376c448bd2",
+            "name": "seagrass_36.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_36.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 663
+            },
+            "state": 1,
+            "type": 1
+        },
+        "87df551c1461d1179066dd9645b62e87": {
+            "format": "png",
+            "id": "87df551c1461d1179066dd9645b62e87",
+            "name": "seagrass_37.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_37.png",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a3f2f763aa0b7389f3b0612cef5de6b": {
+            "format": "jpeg",
+            "id": "0a3f2f763aa0b7389f3b0612cef5de6b",
+            "name": "seagrass_38.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_38.jpeg",
+            "size": {
+                "width": 738,
+                "height": 547
+            },
+            "state": 2,
+            "type": 1
+        },
+        "149f82fca925c8d1e9a0717c4ea06741": {
+            "format": "jpeg",
+            "id": "149f82fca925c8d1e9a0717c4ea06741",
+            "name": "seagrass_40.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_40.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e74300b8067124b77ecb8b3f6823d504": {
+            "format": "png",
+            "id": "e74300b8067124b77ecb8b3f6823d504",
+            "name": "seagrass_41.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_41.png",
+            "size": {
+                "width": 850,
+                "height": 568
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ca4afe51681fb9844ffe9738a031e94c": {
+            "format": "jpeg",
+            "id": "ca4afe51681fb9844ffe9738a031e94c",
+            "name": "seagrass_42.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_42.jpeg",
+            "size": {
+                "width": 685,
+                "height": 515
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34e5431e530443dce36ca4b3152a4ba6": {
+            "format": "jpeg",
+            "id": "34e5431e530443dce36ca4b3152a4ba6",
+            "name": "seagrass_43.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_43.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 3748
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64f2a8eb04520d4b2e40013bd2bc102a": {
+            "format": "jpeg",
+            "id": "64f2a8eb04520d4b2e40013bd2bc102a",
+            "name": "seagrass_44.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_44.jpeg",
+            "size": {
+                "width": 2048,
+                "height": 1536
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa8428bfb2750d876208a8e8b553ef74": {
+            "format": "jpeg",
+            "id": "aa8428bfb2750d876208a8e8b553ef74",
+            "name": "seagrass_45.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_45.jpeg",
+            "size": {
+                "width": 1920,
+                "height": 1440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71c951875e8d3524e8bc8a3909ea8639": {
+            "format": "jpeg",
+            "id": "71c951875e8d3524e8bc8a3909ea8639",
+            "name": "seagrass_49.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_49.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c091338204b55a1056ebb334bde04667": {
+            "format": "jpeg",
+            "id": "c091338204b55a1056ebb334bde04667",
+            "name": "seagrass_5.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_5.jpeg",
+            "size": {
+                "width": 1019,
+                "height": 509
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8894404d3cc8353364750313a00e40d1": {
+            "format": "jpeg",
+            "id": "8894404d3cc8353364750313a00e40d1",
+            "name": "seagrass_50.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_50.jpeg",
+            "size": {
+                "width": 2500,
+                "height": 1667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c77887bfce0742cc63735721d33cf910": {
+            "format": "jpeg",
+            "id": "c77887bfce0742cc63735721d33cf910",
+            "name": "seagrass_51.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_51.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1120
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e9e31192db8048bd7eaecc6c3389c51e": {
+            "format": "jpeg",
+            "id": "e9e31192db8048bd7eaecc6c3389c51e",
+            "name": "seagrass_52.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_52.jpeg",
+            "size": {
+                "width": 3111,
+                "height": 2074
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad6fa6e25008373bda884de2b421716a": {
+            "format": "png",
+            "id": "ad6fa6e25008373bda884de2b421716a",
+            "name": "seagrass_53.png",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_53.png",
+            "size": {
+                "width": 1946,
+                "height": 1430
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a55856d97f94e3cf6a87b9c5ea032c40": {
+            "format": "jpeg",
+            "id": "a55856d97f94e3cf6a87b9c5ea032c40",
+            "name": "seagrass_56.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_56.jpeg",
+            "size": {
+                "width": 1019,
+                "height": 509
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2d964a314f09f381a0aeec0c2d2a0c67": {
+            "format": "jpeg",
+            "id": "2d964a314f09f381a0aeec0c2d2a0c67",
+            "name": "seagrass_57.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_57.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cd2f0af8ca68051a47adbb13246beb0a": {
+            "format": "jpeg",
+            "id": "cd2f0af8ca68051a47adbb13246beb0a",
+            "name": "seagrass_59.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_59.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c66e31cb9f5b9f9284b2c1e8a6488521": {
+            "format": "jpeg",
+            "id": "c66e31cb9f5b9f9284b2c1e8a6488521",
+            "name": "seagrass_6.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_6.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "77d2c84b107be03c193be1a0fc420aea": {
+            "format": "jpeg",
+            "id": "77d2c84b107be03c193be1a0fc420aea",
+            "name": "seagrass_60.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_60.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 1,
+            "type": 1
+        },
+        "378d98a0f62fd6fa3255ff58ac69b7f2": {
+            "format": "jpeg",
+            "id": "378d98a0f62fd6fa3255ff58ac69b7f2",
+            "name": "seagrass_61.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_61.jpeg",
+            "size": {
+                "width": 2000,
+                "height": 1842
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4f81a4faf17aaaf815de6f3cd508e9e": {
+            "format": "jpeg",
+            "id": "e4f81a4faf17aaaf815de6f3cd508e9e",
+            "name": "seagrass_63.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_63.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa5fb33a76aeac82ae1274f32575c6e5": {
+            "format": "jpeg",
+            "id": "fa5fb33a76aeac82ae1274f32575c6e5",
+            "name": "seagrass_64.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_64.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 1,
+            "type": 1
+        },
+        "87183ac92cb379b60debe1d4fdac1d29": {
+            "format": "jpeg",
+            "id": "87183ac92cb379b60debe1d4fdac1d29",
+            "name": "seagrass_65.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_65.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 1,
+            "type": 1
+        },
+        "79c28adbaccff0b351d8b01e41c94b0e": {
+            "format": "jpeg",
+            "id": "79c28adbaccff0b351d8b01e41c94b0e",
+            "name": "seagrass_87.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_87.jpeg",
+            "size": {
+                "width": 6000,
+                "height": 4000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1d943959cc71602a6fbf946baee1ab2": {
+            "format": "jpeg",
+            "id": "a1d943959cc71602a6fbf946baee1ab2",
+            "name": "seagrass_89.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_89.jpeg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3acbe5d72bc05023ed4df6890626d8c6": {
+            "format": "jpeg",
+            "id": "3acbe5d72bc05023ed4df6890626d8c6",
+            "name": "seagrass_9.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_9.jpeg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b22de13a721c70991369ce65519d786a": {
+            "format": "jpeg",
+            "id": "b22de13a721c70991369ce65519d786a",
+            "name": "seagrass_99.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_99.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 853
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7daf0fbf1fc6709994b6ec30c9325665": {
+            "format": "jpeg",
+            "id": "7daf0fbf1fc6709994b6ec30c9325665",
+            "name": "seagrass_98.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_98.jpeg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 1,
+            "type": 1
+        },
+        "205e6cd4544f2c2e4d00aa68a2d70172": {
+            "format": "jpeg",
+            "id": "205e6cd4544f2c2e4d00aa68a2d70172",
+            "name": "seagrass_97.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_97.jpeg",
+            "size": {
+                "width": 1100,
+                "height": 733
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25054a8e3221806e7f41f0ce9919a817": {
+            "format": "jpeg",
+            "id": "25054a8e3221806e7f41f0ce9919a817",
+            "name": "seagrass_93.jpeg",
+            "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/seagrass_93.jpeg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

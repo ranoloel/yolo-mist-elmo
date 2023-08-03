@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpeg",
+        "id": "428383a542ee58120c1a2147c6ec46a0",
+        "name": "sea%20grass_70.jpeg",
+        "path": "file:C:/Users/Full%20Scale/Documents/MSIT/PythonScipt/clahe-output-img/sea%20grass_70.jpeg",
+        "size": {
+            "width": 2500,
+            "height": 1667
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "GKz4Bj1h3",
+            "type": "RECTANGLE",
+            "tags": [
+                "seagrass"
+            ],
+            "boundingBox": {
+                "height": 1113.495493432427,
+                "width": 2466.493698100326,
+                "left": 27.02121759357774,
+                "top": 546.1060273582369
+            },
+            "points": [
+                {
+                    "x": 27.02121759357774,
+                    "y": 546.1060273582369
+                },
+                {
+                    "x": 2493.514915693904,
+                    "y": 546.1060273582369
+                },
+                {
+                    "x": 2493.514915693904,
+                    "y": 1659.6015207906642
+                },
+                {
+                    "x": 27.02121759357774,
+                    "y": 1659.6015207906642
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
